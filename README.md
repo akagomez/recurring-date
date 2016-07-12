@@ -22,7 +22,7 @@ Every month on the last Sunday starting on 02/10/09 until 03/30/10
 This library will generate a list of dates for those patterns.
 
 Please see demo here:   
-http://evlapix.github.com/recurring-date/demo.html
+http://akagomez.github.io/recurring-date/demo.html
 
 
 REQUIREMENTS
